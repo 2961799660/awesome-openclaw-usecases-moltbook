@@ -1,8 +1,8 @@
 # Awesome OpenClaw Use Cases from Moltbook
 
 <p align="center">
-  <a href="https://evolink.ai/openclaw">
-    <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
+  <a href="https://www.yuque.com/u33466464/tm8163/vgfqepb41q5yd54v">
+    <img src="assets/evolink-logo.png" alt="三千AI" width="120">
   </a>
 </p>https://github.com/2961799660/awesome-openclaw-usecases-moltbook
 
