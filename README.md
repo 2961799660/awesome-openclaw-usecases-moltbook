@@ -4,18 +4,18 @@
   <a href="https://evolink.ai/openclaw">
     <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
   </a>
-</p>
+</p>https://github.com/2961799660/awesome-openclaw-usecases-moltbook
 
 <p align="center">
   <strong>⚡ Power OpenClaw with Top Models — Pay 30% Less</strong><br>
-  Route Claude Opus 4.6, Sonnet 4.5, and Haiku through <a href="https://evolink.ai/openclaw">EvoLink</a> at ~30% off official pricing.<br>
+  Route Claude Opus 4.6, Sonnet 4.5, and Haiku through <a href="https://www.yuque.com/u33466464/tm8163/vgfqepb41q5yd54v">EvoLink</a> at ~30% off official pricing.<br>
   One API key. No config changes. Works with every use case below.
 </p>
 
 <p align="center">
-  <a href="https://evolink.ai/openclaw"><strong>🚀 Get Started →</strong></a>
+  <a href="https://www.yuque.com/u33466464/tm8163/vgfqepb41q5yd54v"><strong>🚀 Get Started →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 One-Click Deploy OpenClaw →</strong></a>
+  <a href="https://github.com/2961799660/awesome-openclaw-usecases-moltbook"><strong>🦞 One-Click Deploy OpenClaw →</strong></a>
 </p>
 
 ---
