@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>⚡ Power OpenClaw with Top Models — Pay 30% Less</strong><br>
-  Route Claude Opus 4.6, Sonnet 4.5, and Haiku through <a href="https://www.yuque.com/u33466464/tm8163/vgfqepb41q5yd54v">EvoLink</a> at ~30% off official pricing.<br>
+  Route Claude Opus 4.6, Sonnet 4.5, and Haiku through <a href="https://www.yuque.com/u33466464/tm8163/vgfqepb41q5yd54v">三千AI</a> at ~30% off official pricing.<br>
   One API key. No config changes. Works with every use case below.
 </p>
 
